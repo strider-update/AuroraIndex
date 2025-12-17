@@ -73,7 +73,9 @@ Optional environment variables:
 ## Author
 
 GitHub: https://github.com/strider-update
+
 Public contact (email): strider_update.0w@icloud.com
+
 Public contact (X): https://x.com/jennifer_oj3 
 
 ## License
