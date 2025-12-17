@@ -72,9 +72,9 @@ Optional environment variables:
 
 ## Author
 
-GitHub: https://github.com/
-Public contact (email): your-name@proton.me  
-Public contact (X): https://x.com/your-handle  
+GitHub: https://github.com/strider-update
+Public contact (email): strider_update.0w@icloud.com
+Public contact (X): https://x.com/jennifer_oj3 
 
 ## License
 
@@ -89,15 +89,17 @@ chainId (decimal): 84532
 Explorer: https://sepolia.basescan.org  
 
 Contract #1 address:  
-your_adress  
+0xfef7fa067c0667feefac32926289370706f36322 
 
 Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code  
+- https://sepolia.basescan.org/address/0xfef7fa067c0667feefac32926289370706f36322
+- https://sepolia.basescan.org/0xfef7fa067c0667feefac32926289370706f36322/0#code  
 
 Contract #2 address:  
-your_adress  
+0x0215a111c44fc8976cae4d2f7207e4145a236275
 
 Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code  
+- https://sepolia.basescan.org/address/0x0215a111c44fc8976cae4d2f7207e4145a236275 
+- https://sepolia.basescan.org/0x0215a111c44fc8976cae4d2f7207e4145a236275/0#code  
+
+These testnet deployments provide a controlled environment for validating Base tooling, account abstraction flows, and read-only onchain interactions prior to Base Mainnet usage.
